@@ -14,7 +14,6 @@ banned-*.json
 usernamecache.json
 run.bat
 run.sh
-*.jar
 user_jvm_args.txt
 *.json
 server.properties
