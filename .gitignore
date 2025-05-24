@@ -1,0 +1,39 @@
+# Minecraft junk
+logs/
+cache/
+*.log
+*.lck
+*.tmp
+*.bak
+*.dat_old
+session.lock
+eula.txt
+usercache.json
+whitelist.json
+banned-*.json
+usernamecache.json
+run.bat
+run.sh
+*.jar
+user_jvm_args.txt
+*.json
+server.properties
+crash-reports/
+
+# Docker runtime
+*.pid
+*.sock
+.env
+data/
+world/
+4pals/
+mods/old/
+mods/backup/
+*.zip
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
