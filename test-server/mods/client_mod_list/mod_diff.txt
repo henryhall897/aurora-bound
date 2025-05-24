@@ -1,0 +1,88 @@
+Comparing Server and Client Mods
+--------------------------------
+Mods only on Server:
+backpacked-forge-1.20.1-2.2.5.jar
+client_mod_list
+improved_village_placement_1.0.0.jar
+Clumps-forge-1.20.1-12.0.0.4.jar
+
+Mods only on Client:
+ImmediatelyFast-Forge-1.5.0+1.20.4.jar
+particle_core-0.2.6+1.20.1+forge.jar
+ferritecore-6.0.1-forge.jar
+clientcrafting-1.20.1-1.8.jar
+redirected-forge-1.0.0-1.20.1.jar
+OverflowingBars-v8.0.1-1.20.1-Forge.jar
+ParticleEffects-1.0.3+1.20.1.jar
+modernfix-forge-5.21.0+mc1.20.1.jar
+improved_village_placement_1.0.0.jar
+﻿backpacked-forge-1.20.1-2.2.5.jar
+
+Mods with Different Versions:
+Server: fzzy_config-0.6.9+1.20.1+forge.jar | Client: fzzy_config-0.6.9+1.20.1+forge.jar
+Server: immersivearmorhud-forge-1.0.1-1.20.1.jar | Client: immersivearmorhud-forge-1.0.1-1.20.1.jar
+Server: blueprint-1.20.1-7.1.3.jar | Client: blueprint-1.20.1-7.1.3.jar
+Server: open-parties-and-claims-forge-1.20.1-0.24.0.jar | Client: open-parties-and-claims-forge-1.20.1-0.24.0.jar
+Server: handcrafted-forge-1.20.1-3.0.6.jar | Client: handcrafted-forge-1.20.1-3.0.6.jar
+Server: incubation-1.20.1-4.0.4.jar | Client: incubation-1.20.1-4.0.4.jar
+Server: sawmill-1.20-1.4.6.jar | Client: sawmill-1.20-1.4.6.jar
+Server: DiagonalFences-v8.1.5-1.20.1-Forge.jar | Client: DiagonalFences-v8.1.5-1.20.1-Forge.jar
+Server: BoatBreakFix-Universal-1.0.2.jar | Client: BoatBreakFix-Universal-1.0.2.jar
+Server: FarmersStructures-1.0.3-1.20.jar | Client: FarmersStructures-1.0.3-1.20.jar
+Server: explorations-forge-1.20.1-1.6.1.jar | Client: explorations-forge-1.20.1-1.6.1.jar
+Server: kotlinforforge-4.11.0-all.jar | Client: kotlinforforge-4.11.0-all.jar
+Server: crawlondemand-1.20.x-1.0.0.jar | Client: crawlondemand-1.20.x-1.0.0.jar
+Server: PuzzlesLib-v8.1.32-1.20.1-Forge.jar | Client: PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+Server: justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar | Client: justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar
+Server: blueprintfix-forge-1.0.0-1.20.1.jar | Client: blueprintfix-forge-1.0.0-1.20.1.jar
+Server: Quark-4.0-462.jar | Client: Quark-4.0-462.jar
+Server: jei-1.20.1-forge-15.20.0.106.jar | Client: jei-1.20.1-forge-15.20.0.106.jar
+Server: smoothchunk-1.20.1-4.1.jar | Client: smoothchunk-1.20.1-4.1.jar
+Server: waystones-forge-1.20.1-14.1.11.jar | Client: waystones-forge-1.20.1-14.1.11.jar
+Server: NoChatReports-FORGE-1.20.1-v2.2.2.jar | Client: NoChatReports-FORGE-1.20.1-v2.2.2.jar
+Server: NaturesCompass-1.20.1-1.11.2-forge.jar | Client: NaturesCompass-1.20.1-1.11.2-forge.jar
+Server: Log-Begone-Forge-1.20.1-1.0.8.jar | Client: Log-Begone-Forge-1.20.1-1.0.8.jar
+Server: gallery-1.20.1-1.0.3.jar | Client: gallery-1.20.1-1.0.3.jar
+Server: JustEnoughResources-1.20.1-1.4.0.247.jar | Client: JustEnoughResources-1.20.1-1.4.0.247.jar
+Server: opacpvp-forge-1.0.1-1.20.1.jar | Client: opacpvp-forge-1.0.1-1.20.1.jar
+Server: NekosEnchantedBooks-1.19.3-2.0.3.jar | Client: NekosEnchantedBooks-1.19.3-2.0.3.jar
+Server: notenoughanimations-forge-1.9.3-mc1.20.1.jar | Client: notenoughanimations-forge-1.9.3-mc1.20.1.jar
+Server: curios-forge-5.14.1+1.20.1.jar | Client: curios-forge-5.14.1+1.20.1.jar
+Server: cupboard-1.20.1-2.7.jar | Client: cupboard-1.20.1-2.7.jar
+Server: comforts-forge-6.4.0+1.20.1.jar | Client: comforts-forge-6.4.0+1.20.1.jar
+Server: moonlight-1.20-2.13.82-forge.jar | Client: moonlight-1.20-2.13.82-forge.jar
+Server: MindfulDarkness-v8.0.3-1.20.1-Forge.jar | Client: MindfulDarkness-v8.0.3-1.20.1-Forge.jar
+Server: recipeessentials-1.20.1-4.0.jar | Client: recipeessentials-1.20.1-4.0.jar
+Server: ElysiumApi-1.20.1-1.1.0.jar | Client: ElysiumApi-1.20.1-1.1.0.jar
+Server: formationsnether-1.0.5.jar | Client: formationsnether-1.0.5.jar
+Server: PhilipsRuins1.20.1-5.3.jar | Client: PhilipsRuins1.20.1-5.3.jar
+Server: PickUpNotifier-v8.0.0-1.20.1-Forge.jar | Client: PickUpNotifier-v8.0.0-1.20.1-Forge.jar
+Server: txnilib-forge-1.0.23-1.20.1.jar | Client: txnilib-forge-1.0.23-1.20.1.jar
+Server: mvs-4.1.4-1.20-forge.jar | Client: mvs-4.1.4-1.20-forge.jar
+Server: polymorph-forge-0.49.10+1.20.1.jar | Client: polymorph-forge-0.49.10+1.20.1.jar
+Server: misctweaks-1.1.2+1.20.1.jar | Client: misctweaks-1.1.2+1.20.1.jar
+Server: YungsApi-1.20-Forge-4.0.6.jar | Client: YungsApi-1.20-Forge-4.0.6.jar
+Server: Jadens-Nether-Expansion-2.3.2.jar | Client: Jadens-Nether-Expansion-2.3.2.jar
+Server: revampedwolf-1.20.1-6.0.2.jar | Client: revampedwolf-1.20.1-6.0.2.jar
+Server: framework-forge-1.20.1-0.7.12.jar | Client: framework-forge-1.20.1-0.7.12.jar
+Server: FallingTree-1.20.1-4.3.4.jar | Client: FallingTree-1.20.1-4.3.4.jar
+Server: EasyMagic-v8.0.1-1.20.1-Forge.jar | Client: EasyMagic-v8.0.1-1.20.1-Forge.jar
+Server: hearth_and_home-forge-1.20.1-2.0.3.jar | Client: hearth_and_home-forge-1.20.1-2.0.3.jar
+Server: lmft-1.0.4+1.20.1-forge.jar | Client: lmft-1.0.4+1.20.1-forge.jar
+Server: balm-forge-1.20.1-7.3.27-all.jar | Client: balm-forge-1.20.1-7.3.27-all.jar
+Server: formations-1.0.3-forge-mc1.20.2.jar | Client: formations-1.0.3-forge-mc1.20.2.jar
+Server: Jade-1.20.1-Forge-11.13.1.jar | Client: Jade-1.20.1-Forge-11.13.1.jar
+Server: EasyAnvils-v8.0.2-1.20.1-Forge.jar | Client: EasyAnvils-v8.0.2-1.20.1-Forge.jar
+Server: LeavesBeGone-v8.0.0-1.20.1-Forge.jar | Client: LeavesBeGone-v8.0.0-1.20.1-Forge.jar
+Server: f12-71.jar | Client: f12-71.jar
+Server: FastItemFrames-v20.1.1-1.20.1-Forge.jar | Client: FastItemFrames-v20.1.1-1.20.1-Forge.jar
+Server: DiagonalWalls-v8.0.4-1.20.1-Forge.jar | Client: DiagonalWalls-v8.0.4-1.20.1-Forge.jar
+Server: resourcefullib-forge-1.20.1-2.1.29.jar | Client: resourcefullib-forge-1.20.1-2.1.29.jar
+Server: Paxi-1.20-Forge-4.0.jar | Client: Paxi-1.20-Forge-4.0.jar
+Server: mes-1.3.4-1.20-forge.jar | Client: mes-1.3.4-1.20-forge.jar
+Server: oceansdelight-1.0.2-1.20.jar | Client: oceansdelight-1.0.2-1.20.jar
+Server: Necronomicon-Forge-1.6.0+1.20.1.jar | Client: Necronomicon-Forge-1.6.0+1.20.1.jar
+Server: JustEnoughProfessions-forge-1.20.1-3.0.1.jar | Client: JustEnoughProfessions-forge-1.20.1-3.0.1.jar
+Server: Zeta-1.0-30.jar | Client: Zeta-1.0-30.jar
+Server: FarmersDelight-1.20.1-1.2.7.jar | Client: FarmersDelight-1.20.1-1.2.7.jar
+Server: formationsoverworld-1.0.4.jar | Client: formationsoverworld-1.0.4.jar
