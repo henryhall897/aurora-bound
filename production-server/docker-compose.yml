@@ -1,29 +1,54 @@
-version: '3.8'
-
 services:
   minecraft:
-    image: itzg/minecraft-server
+    image: itzg/minecraft-server:latest
     container_name: aurora-bound-production
-    networks:
-      - aurora-bound
+    restart: no
+
+    # Drop all capabilities except the ones needed to switch user/group & adjust file ownership
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - SETUID
+      - SETGID
+      - DAC_OVERRIDE
+
     environment:
       EULA: "TRUE"
-      TYPE: FORGE
-      VERSION: 1.20.1
-      FORGEVERSION: 47.4.0
-      MEMORY: 8G
-      MAX_PLAYERS: 6
+      TYPE: NEOFORGE
+      VERSION: "1.21.1"
+      NEOFORGE_VERSION: "21.1.248"
+      MEMORY: "8G"
+      MAX_PLAYERS: "6"
       GUI: "false"
+      UID: 996
+      GID: 1005
+
+    networks:
+      - mc-net
+
     ports:
       - "25565:25565"
+
     volumes:
       - ./:/data
       - ./mods:/data/mods
       - ./config:/data/config
       - ./logs:/data/logs
       - ./server.properties:/data/server.properties  
-    restart: "no"
+
+    deploy:
+      resources:
+        limits:
+          cpus: '4.0'
+          memory: 10G
+        reservations:
+          memory: 8G
+
+    dns:
+      - 1.1.1.1
+      - 8.8.8.8
 
 networks:
-  aurora-bound:
+  mc-net:
     driver: bridge
