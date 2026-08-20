@@ -18,6 +18,10 @@ user_jvm_args.txt
 *.json
 server.properties
 crash-reports/
+*.jar
+*world*
+libraries/*
+config/*
 
 # Docker runtime
 *.pid
@@ -36,3 +40,4 @@ mods/backup/
 # OS files
 .DS_Store
 Thumbs.db
+*.env
