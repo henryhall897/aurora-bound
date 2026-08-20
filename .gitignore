@@ -18,6 +18,16 @@ user_jvm_args.txt
 *.json
 server.properties
 crash-reports/
+*.jar
+*world*
+*.toml
+*.json5
+*.snbt
+production-server/config/*
+production-server/dynamic-data-pack-cache/*
+production-server/libraries/*
+test-server/config/*
+test-server/modernfix/*
 
 # Docker runtime
 *.pid
@@ -36,3 +46,4 @@ mods/backup/
 # OS files
 .DS_Store
 Thumbs.db
+*.env
